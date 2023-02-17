@@ -8,3 +8,4 @@
 * 01:24 - Responded to emails about API
 * 01:51 - Added readme with a baisic description
 * 02:33 - More research, testing in test app
+* 03:20 - More research, Begin building bare bones of app.
