@@ -2,3 +2,5 @@
 
 * 8:35 - Working on Proposal/research 
 * 9:15 - Finish proposal, begin research
+* 10:30 - Continued API research
+* 11:15 - Researching other AA and health tracker sites for ideas on forms

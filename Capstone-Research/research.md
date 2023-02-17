@@ -42,3 +42,6 @@ Lucas
 * [Portland area intergroup](https://www.pdxaa.org/portland-area-intergroup/#resources)
 * [AA Qoutes](https://www.goodreads.com/work/quotes/152899-alcoholics-anonymous)
 * [Support Guide](https://www.alcoholrehabguide.org/support/)
+* [STREAKS to-do list](https://streaksapp.com/)
+* [habit tracker template](https://thomasjfrank.com/templates/habit-tracker-notion-template/)
+* [habitory tracker](https://habitory.com/)
