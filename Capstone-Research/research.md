@@ -1,7 +1,7 @@
 # RESEARCH!
 
 ## AA.ORG
-* https://www.aa.org/contact-pacific-region
+* [pacific region](https://www.aa.org/contact-pacific-region)
 * Email sent 2/17/23 @9:40am to Pacific regional offices for request of API:
 ```
 Good Morning,
@@ -15,5 +15,18 @@ I hope to hear back to you soon,
 Lucas
 ```
 
-* Possible information at https://meetingguide.helpdocs.io/article/kngu6gpxfw-json-feeds but no API info.
+* Possible information  [here](https://meetingguide.helpdocs.io/article/kngu6gpxfw-json-feeds) but no API info.
 
+
+
+
+
+
+
+
+
+#
+
+# Possibley helpful sites
+
+* [10 good sites](https://aaagnostica.org/2013/02/24/my-10-favourite-recovery-websites/)
