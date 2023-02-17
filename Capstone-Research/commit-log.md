@@ -6,3 +6,5 @@
 * 11:15 - Researching other AA and health tracker sites for ideas on forms
 * 12:00 - WIP:Lunch: Reponded to email, more research and adding links
 * 01:24 - Responded to emails about API
+* 01:51 - Added readme with a baisic description
+* 02:33 - More research, testing in test app
