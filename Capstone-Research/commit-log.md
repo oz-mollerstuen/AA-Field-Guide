@@ -5,3 +5,4 @@
 * 10:30 - Continued API research
 * 11:15 - Researching other AA and health tracker sites for ideas on forms
 * 12:00 - WIP:Lunch: Reponded to email, more research and adding links
+* 01:24 - Responded to emails about API
