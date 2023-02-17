@@ -50,8 +50,34 @@ I completely understand the reasons why you have reservations about the API, and
 Thank you, 
 Lucas 
 ```
+##### Response:
+```
+It sounds like you would be an asset on the app development team.
+Would you like me to provide you with an email to speak with a team member?
+Possibly they can give what you need to finish your Capstone?
+Let me know,
+Garry
+```
+##### Final:
 
+```
+It is simply, appsupport@aa.org
+Good luck!
+Garry
+```
 
+# Emails to appsupport:
+```
+Good afternoon,
+
+My name is Lucas, a friend of Bill, and happily sober. I've been in contact with quite a few people, including Garry Biggers here in Portland, in AA looking for an API to get information such as getting real time information on meetings and times.
+
+This C# site is for personal use for my final project/capstone project for Epicodus in Portland, OR, but many in my homegroup would like to use it as well. This website would be a "Field Guide" to AA of sorts including calendars, meeting alerts, lists of favorite meets and where they are located, resources, and so much more. It's a project that I'm very excited to build and use, and I think that it would be really helpful to newcomers and old cats as well. 
+
+Thank you in advance,
+
+Lucas.
+```
 
 
 
