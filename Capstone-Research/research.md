@@ -112,3 +112,9 @@ Lucas.
 * [JQuery calander plug-in](https://www.webappers.com/2009/08/04/jquery-weekly-calendar-plugin-inspired-by-google-calendar/)
 * [JavaScript calander](https://fullcalendar.io/)
 * [STREAKS to-do list](https://streaksapp.com/)
+
+#
+
+## Packages
+* [10 best NuGet packages](https://www.syncfusion.com/blogs/post/10-best-c-nuget-packages-to-improve-your-productivity-in-2022.aspx)
+* [NuGet for every .net dev](https://www.claudiobernasconi.ch/2022/03/01/13-csharp-nuget-packages-every-dotnet-developer-needs-to-know/)

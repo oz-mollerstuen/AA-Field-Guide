@@ -10,3 +10,4 @@
 * 02:33 - More research, testing in test app
 * 03:20 - More research, Begin building bare bones of app.
 * 04:00 - Watching [videos](https://www.youtube.com/watch?v=ngfYZ0U-emg) on best ways to build app
+* 04:30 - Add CapstoneApp-experiments to github, more research
