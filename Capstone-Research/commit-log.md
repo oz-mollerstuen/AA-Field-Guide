@@ -20,3 +20,4 @@
 * 8:30 - Update Proposal and start research
 * 9:27 - Built bones of react project
 * 9:50 - Add header and footer to project
+* 10:20 - Add some style to see header and footer
