@@ -28,3 +28,4 @@
 * 2:20 - install web-pack and update files
 * 2:50 - finish webpack install and added sass to webpack file.
 * 3:05 - vs code for app completely frozen. Taking a break
+* 3:25 - Back at it, did not chuck computer out the window
