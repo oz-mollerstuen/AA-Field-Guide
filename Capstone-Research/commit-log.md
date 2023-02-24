@@ -21,3 +21,5 @@
 * 9:27 - Built bones of react project
 * 9:50 - Add header and footer to project
 * 10:20 - Add some style to see header and footer
+* 10:50 - Researched additional libraries for react
+* 
