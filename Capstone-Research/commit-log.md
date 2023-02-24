@@ -26,3 +26,4 @@
 * 1:10 - Testing calendar in app
 * 1:35 - Implementing Sass
 * 2:20 - install web-pack and update files
+* 2:50 - finish webpack install and added sass to webpack file.
