@@ -25,3 +25,4 @@
 * 11:45 - Narrowing down which style of calendar I want in app, work on 'Journal' 
 * 1:10 - Testing calendar in app
 * 1:35 - Implementing Sass
+* 2:20 - install web-pack and update files

@@ -36,8 +36,8 @@
 ## What additional tools, frameworks, libraries, APIs, or other resources will these additional features require?
 
  * Sass
- * 
- * 
+ * style-loader
+ * npx webpack init
  * 
 #
 
