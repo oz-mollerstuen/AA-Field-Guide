@@ -16,4 +16,7 @@
 #
 # 02/24/24
 
-* Begin research on REACT version of project
+* 8:00 - Begin research on REACT version of project
+* 8:30 - Update Proposal and start research
+* 9:27 - Built bones of react project
+*
