@@ -22,4 +22,4 @@
 * 9:50 - Add header and footer to project
 * 10:20 - Add some style to see header and footer
 * 10:50 - Researched additional libraries for react
-* 
+* 11:45 - Narrowing down which style of calendar I want in app, work on 'Journal' 

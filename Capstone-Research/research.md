@@ -97,10 +97,9 @@ Lucas.
 * [habitory tracker](https://habitory.com/)
 
 #
-## Javascript Embedding:
+## Styling:
+* [Googley Fonts](https://fonts.google.com/specimen/EB+Garamond#styles)
 
-<!-- * [Integrate JS into C#](https://visualstudiomagazine.com/articles/2018/09/01/integrating-javascript-csharp.aspx)
-* [Stack O on JS embedding](https://stackoverflow.com/questions/172753/embedding-javascript-engine-into-net) -->
 #
 
 ## Calanders:
