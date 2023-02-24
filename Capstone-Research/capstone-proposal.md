@@ -19,7 +19,7 @@
 #
 ## What tools, frameworks, libraries, APIs, modules and/or other resources (whatever is specific to your track, and your language) will you use to create this MVP? List them all here. Be specific.
 
-* C#
+* React
 * Looking for an API for meetings and times
 * .NET
 * MySQL
@@ -35,10 +35,10 @@
 
 ## What additional tools, frameworks, libraries, APIs, or other resources will these additional features require?
 
- * ASP.NET 
- * Rest API
- * Dapper
- * Swagger
+ * 
+ * 
+ * 
+ * 
 #
 
 ## Is there anything else you'd like your instructor to know?

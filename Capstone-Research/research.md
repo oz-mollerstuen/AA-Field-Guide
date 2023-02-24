@@ -99,27 +99,27 @@ Lucas.
 #
 ## Javascript Embedding:
 
-* [Integrate JS into C#](https://visualstudiomagazine.com/articles/2018/09/01/integrating-javascript-csharp.aspx)
-* [Stack O on JS embedding](https://stackoverflow.com/questions/172753/embedding-javascript-engine-into-net)
+<!-- * [Integrate JS into C#](https://visualstudiomagazine.com/articles/2018/09/01/integrating-javascript-csharp.aspx)
+* [Stack O on JS embedding](https://stackoverflow.com/questions/172753/embedding-javascript-engine-into-net) -->
 #
 
 ## Calanders:
 
-* [ASP.NET Calander](https://scheduler-net.com/docs/appointment-calendar-asp-mvc5.html)
+<!-- * [ASP.NET Calander](https://scheduler-net.com/docs/appointment-calendar-asp-mvc5.html)
 * [Microsoft Calendar for C#](https://learn.microsoft.com/en-us/dotnet/api/system.globalization.calendar?view=net-7.0)
 * [Winforms Calander](https://www.telerik.com/products/winforms/scheduler.aspx)
 * [Twilio + Google for appointment bot](https://www.twilio.com/blog/appointment-bot-twilio-sms-google-calendar-api-csharp-aspdotnet-core)
 * [JQuery calander plug-in](https://www.webappers.com/2009/08/04/jquery-weekly-calendar-plugin-inspired-by-google-calendar/)
 * [JavaScript calander](https://fullcalendar.io/)
-* [STREAKS to-do list](https://streaksapp.com/)
+* [STREAKS to-do list](https://streaksapp.com/) -->
 
 #
 
 ## Packages
-* [10 best NuGet packages](https://www.syncfusion.com/blogs/post/10-best-c-nuget-packages-to-improve-your-productivity-in-2022.aspx)
-* [NuGet for every .net dev](https://www.claudiobernasconi.ch/2022/03/01/13-csharp-nuget-packages-every-dotnet-developer-needs-to-know/)
+<!-- * [10 best NuGet packages](https://www.syncfusion.com/blogs/post/10-best-c-nuget-packages-to-improve-your-productivity-in-2022.aspx)
+* [NuGet for every .net dev](https://www.claudiobernasconi.ch/2022/03/01/13-csharp-nuget-packages-every-dotnet-developer-needs-to-know/) -->
 
 
 #
 ## Helpful extensions
-* [Top VS Extensions](https://codevoweb.com/top-vs-code-extensions-for-csharp-and-dotnet/)
+<!-- * [Top VS Extensions](https://codevoweb.com/top-vs-code-extensions-for-csharp-and-dotnet/) -->
