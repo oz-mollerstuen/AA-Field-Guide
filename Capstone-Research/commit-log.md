@@ -29,3 +29,4 @@
 * 2:50 - finish webpack install and added sass to webpack file.
 * 3:05 - vs code for app completely frozen. Taking a break
 * 3:25 - Back at it, did not chuck computer out the window
+* 4:15 - Restarted computer, react is slowing and freezing in vs code
