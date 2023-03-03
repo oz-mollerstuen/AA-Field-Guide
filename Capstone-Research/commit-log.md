@@ -46,3 +46,4 @@
 * 12:55 - Back from lunch, will continue sign-in
 * 1:35 - finishing up sign-in/up/out, set up Firebase
 * 2:05 - Integrating Firebase, adding components
+* 2:36 - Customizing calendar, adding dashboard and tracker components
