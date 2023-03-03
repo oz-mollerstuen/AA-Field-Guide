@@ -42,4 +42,4 @@
 * 10:20 - [Different approach](https://medium.com/@sanderdebr/building-a-workout-tracker-with-react-and-firebase-part-1-e1b13c073135)
 * 11:00 - Fixing bugs in App.jsx
 * 11:45 - Installing MUI libraries and building sign-in screen
-* 
+* 12:20 - WIP - taking lunch, continue working on sign-in
