@@ -31,3 +31,8 @@
 * 3:25 - Back at it, did not chuck computer out the window
 * 4:15 - Restarted computer, react is slowing and freezing in vs code. & bug squashing
 * 4:59 - WIP end of day *phew* Will continue to debug webpack
+
+#
+# 3/3/23
+
+* 8:00 - Re-init cap-research, start research on notepad feature

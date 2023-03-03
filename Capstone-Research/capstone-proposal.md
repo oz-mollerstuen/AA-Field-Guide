@@ -38,7 +38,9 @@
  * Sass
  * style-loader
  * npx webpack init
- * 
+ * npm install — save-dev css-loader@1.0.1 style-loader@0.23.1
+ * npm install react-transition-group
+ * npm install --save-dev @babel/preset-env @babel/preset-react
 #
 
 ## Is there anything else you'd like your instructor to know?

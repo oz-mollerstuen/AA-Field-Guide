@@ -98,7 +98,7 @@ Lucas.
 
 #
 ## Styling:
-* [Googley Fonts](https://fonts.google.com/specimen/EB+Garamond#styles)
+* [Google Fonts](https://fonts.google.com/specimen/EB+Garamond#styles)
 
 #
 
