@@ -44,4 +44,5 @@
 * 11:45 - Installing MUI libraries and building sign-in screen
 * 12:20 - WIP - taking lunch, continue working on sign-in
 * 12:55 - Back from lunch, will continue sign-in
-* 1:35 - finishing up sign-in/up/out, adding Firebase
+* 1:35 - finishing up sign-in/up/out, set up Firebase
+* 2:05 - Integrating Firebase, adding components
