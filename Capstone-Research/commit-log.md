@@ -36,3 +36,5 @@
 # 3/3/23
 
 * 8:00 - Re-init cap-research, start research on notepad feature
+* 8:40 - Found new templates to research and take styling notes
+* 9:00 - Imported too many libraries. New project, simplicity in mind
