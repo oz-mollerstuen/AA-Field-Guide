@@ -117,4 +117,5 @@ Lucas.
 * [9 best templates](https://adminlte.io/blog/free-react-templates/)
 * [Calendar Build Toot](https://medium.com/@sanderdebr/building-a-workout-tracker-with-react-and-firebase-part-1-e1b13c073135)
 * [MUI Library](https://mui.com/core/)
+* [MUI installation npm's](https://www.npmjs.com/package/@mui/icons-material)
 
