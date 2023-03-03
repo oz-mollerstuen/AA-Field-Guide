@@ -40,3 +40,4 @@
 * 9:00 - Imported too many libraries. New project, simplicity in mind
 * 9:45 - [Researching Google stater kit](https://github.com/google/web-starter-kit)
 * 10:20 - [Different approach](https://medium.com/@sanderdebr/building-a-workout-tracker-with-react-and-firebase-part-1-e1b13c073135)
+* 11:00 - Fixing buggs
