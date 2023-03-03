@@ -47,3 +47,4 @@
 * 1:35 - finishing up sign-in/up/out, set up Firebase
 * 2:05 - Integrating Firebase, adding components
 * 2:36 - Customizing calendar, adding dashboard and tracker components
+* 3:21 - Add activity tracker, snackBar 
