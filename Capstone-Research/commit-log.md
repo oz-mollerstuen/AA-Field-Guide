@@ -49,3 +49,4 @@
 * 2:36 - Customizing calendar, adding dashboard and tracker components
 * 3:21 - Add activity tracker, snackBar
 * 4:00 - Finish activity tracker, begin de-bugging
+* 4:45 - Fighting with material-ui issues, slowly fixing them

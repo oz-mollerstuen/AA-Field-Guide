@@ -119,3 +119,5 @@ Lucas.
 * [MUI Library](https://mui.com/core/)
 * [MUI installation npm's](https://www.npmjs.com/package/@mui/icons-material)
 * [Load Spinner](https://loading.io/)
+* [npm for mui issues](https://bobbyhadz.com/blog/react-module-not-found-cant-resolve-mui-material)
+* [more npm: npm i @material-ui/core --force](https://stackoverflow.com/questions/73592637/npm-i-material-ui-core-not-workinng)
