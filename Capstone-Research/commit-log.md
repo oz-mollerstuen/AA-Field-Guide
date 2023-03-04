@@ -52,3 +52,8 @@
 * 4:45 - Fighting with material-ui issues, slowly fixing them
 * 6:15 - Back from 30 minute rest
 * 7:00 - WIP: Calling it a day
+
+#
+#  3/04/23
+
+* 11:00 - Begin day, work on bugs in code.
