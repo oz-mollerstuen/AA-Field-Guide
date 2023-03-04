@@ -50,3 +50,5 @@
 * 3:21 - Add activity tracker, snackBar
 * 4:00 - Finish activity tracker, begin de-bugging
 * 4:45 - Fighting with material-ui issues, slowly fixing them
+* 6:15 - Back from 30 minute rest
+* 7:00 - WIP: Calling it a day
