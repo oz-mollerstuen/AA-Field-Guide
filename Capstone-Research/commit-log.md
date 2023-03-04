@@ -56,4 +56,5 @@
 #
 #  3/04/23
 
-* 11:00 - Begin day, work on bugs in code.
+* 11:00 - Begin day, work on bugs in code
+* 12:27 - Material-UI is not fully compatible with react-dom v. 6, finding a work around
