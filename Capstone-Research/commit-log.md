@@ -58,3 +58,10 @@
 
 * 11:00 - Begin day, work on bugs in code
 * 12:27 - Material-UI is not fully compatible with react-dom v. 6, finding a work around
+* 1:00 - trying to refactor to use chakra ui
+* 2:00 - Still refactoring
+* 3:30 - adding additional packages, listing in research.md
+* 5:00 - setting up "ColorModeSwitcher"
+* 5:45 - Re-building sideBar
+* 7:20 - going through all material-ui components, researching replacements for chakra-ui integration using [chakra-ui docs](https://chakra-ui.com/)
+* 9:00 - WIP: Calling it a day
