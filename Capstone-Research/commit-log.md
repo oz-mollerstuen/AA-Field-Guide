@@ -91,4 +91,4 @@
 
 * 12:50 - attempt to use some of my code to rebuild app
 
-*
+* 1:50 - fixed bundle.js issue by importing and adding PasswordForget to routes. Working on why nothing shows on page.
