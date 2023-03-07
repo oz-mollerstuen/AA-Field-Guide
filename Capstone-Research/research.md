@@ -123,3 +123,4 @@ Lucas.
 * [more npm: npm i @material-ui/core --force](https://stackoverflow.com/questions/73592637/npm-i-material-ui-core-not-workinng)
 * npm i clsx
 * ColorModeSwitcher
+* npm install moment

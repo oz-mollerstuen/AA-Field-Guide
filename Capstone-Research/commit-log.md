@@ -64,4 +64,10 @@
 * 5:00 - setting up "ColorModeSwitcher"
 * 5:45 - Re-building sideBar
 * 7:20 - going through all material-ui components, researching replacements for chakra-ui integration using [chakra-ui docs](https://chakra-ui.com/)
-* 9:00 - WIP: Calling it a day
+* 9:00 - WIP: Calling it a day, continue with last three errors tomorrow
+
+#
+# 3/7/23
+
+* 8:00 - begin day, error hunting
+* 
