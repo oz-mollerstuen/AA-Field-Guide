@@ -98,4 +98,4 @@
 ```
 No routes matched location "/" 
 ```
-
+* 3:00 - Still figuring out routes.
