@@ -87,3 +87,8 @@
 
 * 11:00 - uninstalling all packages and reinstalling them. This includes webpack, chakra-ui, and emaotion. deleting node modules and lock.json
 
+* 12:00 - scrapping project and starting over. Again.
+
+* 12:50 - attempt to use some of my code to rebuild app
+
+*
