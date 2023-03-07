@@ -71,9 +71,9 @@
 
 * 8:00 - begin day, error hunting
 * 9:00 - Still fixing bugs: 
-```
-config_theme_signinup__WEBPACK_IMPORTED_MODULE_3__.default is not a function
-```
+
+* config_theme_signinup__WEBPACK_IMPORTED_MODULE_3__.default is not a function
+
 
 #### 9:50 - Cannot find fix to webpack error. Possible work arounds:
 * Restart project
@@ -83,5 +83,7 @@ config_theme_signinup__WEBPACK_IMPORTED_MODULE_3__.default is not a function
 #
 
 * 10:00 - Uninstall (global) and reinstall (global) did not work 
+![errors - signin](https://user-images.githubusercontent.com/115112679/223510016-2579dc51-c9ab-491d-b65f-3a4c4e0a7607.png)
 
+* 11:00 - uninstalling all packages and reinstalling them. This includes webpack, chakra-ui, and emaotion. deleting node modules and lock.json
 
