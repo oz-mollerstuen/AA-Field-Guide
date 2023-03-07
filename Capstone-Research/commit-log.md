@@ -70,4 +70,13 @@
 # 3/7/23
 
 * 8:00 - begin day, error hunting
-* 
+* 9:00 - Still fixing bugs: 
+```
+config_theme_signinup__WEBPACK_IMPORTED_MODULE_3__.default is not a function
+```
+
+#### 10:00 - Cannot find fix to webpack error. Possible work arounds:
+* Restart project
+* further research
+* uninstall webpack, reinstall
+
