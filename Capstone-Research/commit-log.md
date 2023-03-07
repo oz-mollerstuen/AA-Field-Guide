@@ -75,8 +75,13 @@
 config_theme_signinup__WEBPACK_IMPORTED_MODULE_3__.default is not a function
 ```
 
-#### 10:00 - Cannot find fix to webpack error. Possible work arounds:
+#### 9:50 - Cannot find fix to webpack error. Possible work arounds:
 * Restart project
 * further research
 * uninstall webpack, reinstall
+
+#
+
+* 10:00 - Uninstall (global) and reinstall (global) did not work 
+
 
