@@ -99,3 +99,29 @@
 No routes matched location "/" 
 ```
 * 3:00 - Still figuring out routes.
+* 3:58 - New errors and warnings!
+```
+bundle.js:95019 Warning: Received `true` for a non-boolean attribute `item`.
+
+If you want to write it to the DOM, pass a string instead: item="true" or item={value.toString()}.
+```
+
+And
+
+```
+bundle.js:95019 Warning: Received `false` for a non-boolean attribute `xs`.
+
+If you want to write it to the DOM, pass a string instead: xs="false" or xs={value.toString()}.
+
+If you used to conditionally omit it with xs={condition && value}, pass xs={condition ? value : undefined} instead.
+```
+AND
+
+```
+You are loading @emotion/react when it is already loaded. Running multiple instances may cause problems. This can happen if multiple versions are used, or if multiple builds of the same version are used.
+```
+
+because WHY NOT?
+
+#
+* 
