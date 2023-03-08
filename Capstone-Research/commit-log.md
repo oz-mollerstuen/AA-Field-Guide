@@ -124,4 +124,7 @@ You are loading @emotion/react when it is already loaded. Running multiple insta
 because WHY NOT?
 
 #
-* 
+* 4:46 - New errors that I currently trying to fix:
+```
+bundle.js:1857 Uncaught ReferenceError: Cannot access 'config' before initialization
+```
