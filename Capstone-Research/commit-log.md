@@ -143,3 +143,5 @@ bundle.js:1857 Uncaught ReferenceError: Cannot access 'config' before initializa
 
 #
 * 3:15 - Working on FirebaseError: Firebase: Error (auth/invalid-api-key).
+
+* 3:50 - Career services, still working on api-key issue.
