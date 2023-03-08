@@ -128,3 +128,17 @@ because WHY NOT?
 ```
 bundle.js:1857 Uncaught ReferenceError: Cannot access 'config' before initialization
 ```
+
+#
+# Wednesday 3/8/23
+
+### 2:45 - I forgot to log everything today up until now:
+* fixed syntax errors in firebase.js and reconfigured app so firebase will actually create and store information for sign-up and sign-in
+* Calendar displayed until auth was updated, working on that now.
+* cannot read properties of undefined (reading 'auth') - Firebase was initialized incorrectly
+* Uncaught FirebaseError: "projectId" not provided in firebase.initializeApp. - I kept the "PROJECT_NAME". Fun times!
+* ERROR 'firebase' is not defined, 'firebaseConfig' is not defined  no-undef. WHERE??
+* Uncaught FirebaseError: Firebase: Error (auth/invalid-api-key).
+* export 'default' (imported as 'firebase') was not found in 'firebase/app'
+
+
