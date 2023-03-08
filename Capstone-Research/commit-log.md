@@ -141,4 +141,5 @@ bundle.js:1857 Uncaught ReferenceError: Cannot access 'config' before initializa
 * Uncaught FirebaseError: Firebase: Error (auth/invalid-api-key).
 * export 'default' (imported as 'firebase') was not found in 'firebase/app'
 
-
+#
+* 3:15 - Working on FirebaseError: Firebase: Error (auth/invalid-api-key).
