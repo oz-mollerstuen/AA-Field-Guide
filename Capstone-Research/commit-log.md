@@ -106,7 +106,7 @@ bundle.js:95019 Warning: Received `true` for a non-boolean attribute `item`.
 If you want to write it to the DOM, pass a string instead: item="true" or item={value.toString()}.
 ```
 
-And
+*And*
 
 ```
 bundle.js:95019 Warning: Received `false` for a non-boolean attribute `xs`.
@@ -115,13 +115,13 @@ If you want to write it to the DOM, pass a string instead: xs="false" or xs={val
 
 If you used to conditionally omit it with xs={condition && value}, pass xs={condition ? value : undefined} instead.
 ```
-AND
+*AND*
 
 ```
 You are loading @emotion/react when it is already loaded. Running multiple instances may cause problems. This can happen if multiple versions are used, or if multiple builds of the same version are used.
 ```
 
-because WHY NOT?
+*because WHY NOT?*
 
 #
 * 4:46 - New errors that I currently trying to fix:
@@ -136,7 +136,7 @@ bundle.js:1857 Uncaught ReferenceError: Cannot access 'config' before initializa
 * fixed syntax errors in firebase.js and reconfigured app so firebase will actually create and store information for sign-up and sign-in
 * Calendar displayed until auth was updated, working on that now.
 * cannot read properties of undefined (reading 'auth') - Firebase was initialized incorrectly
-* Uncaught FirebaseError: "projectId" not provided in firebase.initializeApp. - I kept the "PROJECT_NAME". Fun times!
+* Uncaught FirebaseError: "projectId" not provided in firebase.initializeApp. - I kept the "PROJECT_NAME". *Fun times!*
 * ERROR 'firebase' is not defined, 'firebaseConfig' is not defined  no-undef. WHERE??
 * Uncaught FirebaseError: Firebase: Error (auth/invalid-api-key).
 * export 'default' (imported as 'firebase') was not found in 'firebase/app'
@@ -145,3 +145,7 @@ bundle.js:1857 Uncaught ReferenceError: Cannot access 'config' before initializa
 * 3:15 - Working on FirebaseError: Firebase: Error (auth/invalid-api-key).
 
 * 3:50 - Career services, still working on api-key issue.
+
+* 4:10 - Fixed auth issue: importing from .env without ''. *eyeroll*
+
+* 7:10 - WIP finished making the calendar show and collect data. Calling it a night.
