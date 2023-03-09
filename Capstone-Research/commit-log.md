@@ -150,3 +150,10 @@ bundle.js:1857 Uncaught ReferenceError: Cannot access 'config' before initializa
 
 * 7:10 - WIP finished making the calendar show and collect data. Calling it a night.
 * 8:20 - Update README and research. NOW I'm calling it a night.
+
+
+#
+# 8/9/23 - Last day of Capstone
+
+* Today: Styling, attempt to add day counter.
+* 
