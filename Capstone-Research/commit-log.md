@@ -159,3 +159,4 @@ bundle.js:1857 Uncaught ReferenceError: Cannot access 'config' before initializa
 * 9:40 - Working on counter and preparing presentation
 * 11:34 - Counter is kinda working, working on styling
 * 12:10 - Lunch
+* 1:20 - Styling, counter, presentation
