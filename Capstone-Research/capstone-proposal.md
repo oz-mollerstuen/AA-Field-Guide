@@ -15,35 +15,35 @@
 
 * Account log-in
 * Create lists of meetings with information on ways to attend
-* Find resources for books and articles
+* Calendar
 #
 ## What tools, frameworks, libraries, APIs, modules and/or other resources (whatever is specific to your track, and your language) will you use to create this MVP? List them all here. Be specific.
 
 * React
-* Looking for an API for meetings and times
 * .NET
 * MySQL
 * HTML
 * Entity 6
+* Firebase/Firebase Auth
 #
 
 ## If you finish developing the minimum viable product (MVP) with time to spare, what will you work on next? Describe these features here: Be specific.
 
 * Integrate API to find meetings in real time
 *  Add alerts to notify you when a meeting is about to start
+* Notepad
+* Day counter
 #
 
 ## What additional tools, frameworks, libraries, APIs, or other resources will these additional features require?
 
- * Sass
+ * Chakra-UI
  * style-loader
- * npx webpack init
- * npm install — save-dev css-loader@1.0.1 style-loader@0.23.1
- * npm install react-transition-group
- * npm install --save-dev @babel/preset-env @babel/preset-react
-#
+ * webpack
+ * 
+ #
 
 ## Is there anything else you'd like your instructor to know?
 
-* As this is a work in progress, I may find more items to add to all of these lists.
+* 
 #
