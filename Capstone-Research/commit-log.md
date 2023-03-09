@@ -149,3 +149,4 @@ bundle.js:1857 Uncaught ReferenceError: Cannot access 'config' before initializa
 * 4:10 - Fixed auth issue: importing from .env without ''. *eyeroll*
 
 * 7:10 - WIP finished making the calendar show and collect data. Calling it a night.
+* 8:20 - Update README and research. NOW I'm calling it a night.

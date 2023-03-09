@@ -115,12 +115,12 @@ Lucas.
 ## Helpful libraries and templates:
 
 * [9 best templates](https://adminlte.io/blog/free-react-templates/)
-* [Calendar Build Toot](https://medium.com/@sanderdebr/building-a-workout-tracker-with-react-and-firebase-part-1-e1b13c073135)
+<!-- * [Calendar Build Tool](https://medium.com/@sanderdebr/building-a-workout-tracker-with-react-and-firebase-part-1-e1b13c073135)
 * [MUI Library](https://mui.com/core/)
 * [MUI installation npm's](https://www.npmjs.com/package/@mui/icons-material)
 * [Load Spinner](https://loading.io/)
 * [npm for mui issues](https://bobbyhadz.com/blog/react-module-not-found-cant-resolve-mui-material)
-* [more npm: npm i @material-ui/core --force](https://stackoverflow.com/questions/73592637/npm-i-material-ui-core-not-workinng)
+* [more npm: npm i @material-ui/core --force](https://stackoverflow.com/questions/73592637/npm-i-material-ui-core-not-workinng) -->
 * npm i clsx
 * ColorModeSwitcher
 * npm install moment

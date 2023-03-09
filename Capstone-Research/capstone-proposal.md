@@ -4,7 +4,7 @@
 #
 # Name of Project:
 
-### AA Field Guide
+### AA Field Guide/Field.Guide
 
 #
 ## Project's Purpose or Goal: (What will it do for users?)
@@ -43,7 +43,3 @@
  * 
  #
 
-## Is there anything else you'd like your instructor to know?
-
-* 
-#
